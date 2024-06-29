@@ -80,7 +80,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 <br />
 <table>
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=mie6996&show_icons=true&theme=dark&locale=en"
+        <td><img src="https://github-readme-stats.vercel.app/api?username=mie6996&show_icons=true&theme=light&locale=en"
                 alt="mie6996" /></td>
     </tr>
 </table>
